@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/action_search1"
+          android:icon="@android:drawable/ic_menu_search"
+          android:title="@string/action_bar_search"
+          android:showAsAction="always|collapseActionView"
+          android:actionViewClass="android.widget.SearchView" />
+    <item android:id="@+id/action_search2"
+          android:icon="@android:drawable/ic_menu_search"
+          android:title="@string/action_bar_search"
+          android:showAsAction="always|collapseActionView"
+          android:actionViewClass="android.widget.SearchView" />
+    <item android:id="@+id/action_search3"
+          android:icon="@android:drawable/ic_menu_search"
+          android:title="@string/action_bar_search"
+          android:showAsAction="always|collapseActionView"
+          android:actionViewClass="android.widget.SearchView" />
+    <item android:id="@+id/action_search4"
+          android:icon="@android:drawable/ic_menu_search"
+          android:title="@string/action_bar_search"
+          android:showAsAction="always|collapseActionView"
+          android:actionViewClass="android.widget.SearchView" />
+    <item android:id="@+id/action_search5"
+          android:icon="@android:drawable/ic_menu_search"
+          android:title="@string/action_bar_search"
+          android:showAsAction="always|collapseActionView"
+          android:actionViewClass="android.widget.SearchView" />
+    <item android:id="@+id/action_search6"
+          android:icon="@android:drawable/ic_menu_search"
+          android:title="@string/action_bar_search"
+          android:showAsAction="always|collapseActionView"
+          android:actionViewClass="android.widget.SearchView" />
+
+</menu>
